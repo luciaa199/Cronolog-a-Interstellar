@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://unpkg.com/boxicons@2.1.4/dist/boxicons.js"></script>
+    <title>Interstellar</title>
+</head>
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+</style>
+
+<body>
+    <h1>Cronología</h1>
+    <div class="card-container">
+        <div class="card-inicio">
+            <box-icon name='right-arrow-alt'></box-icon>
+            <div class="content"></div>
+            <h2>Inicio en la Tierra</h2>
+            <p>Cooper descubre, junto con su hija, la base secreta de la NASA y es elegido para la misión Endurance.</p>
+
+        </div>
+        <div class="card-agujero">
+            <box-icon name='right-arrow-alt'></box-icon>
+            <div class="content"></div>
+            <h2>Agujero de Gusano en Saturno</h2>
+            <p>La tripulación de la nave Endurance atraviesa el agujero hacia otra galaxia.</p>
+        </div>
+        <div class="card-miller">
+            <box-icon name='right-arrow-alt'></box-icon>
+            <div class="content"></div>
+            <h2>Planeta de Miller</h2>
+            <p>Un mundo oceánico donde el tiempo pasa mucho más lento: 1 hora son 7 años en la Tierra.</p>
+        </div>
+        <div class="card-mann">
+            <box-icon name='right-arrow-alt'></box-icon>
+            <div class="content"></div>
+            <h2>Planeta de Mann</h2>
+            <p>El Dr. Mann traiciona a la tripulación en un intento de escapar solo ya que su tripulación murió</p>
+        </div>
+        <div class="card-gargantua">
+            <box-icon name='right-arrow-alt'></box-icon>
+            <div class="content"></div>
+            <h2>Gargantúa</h2>
+            <p>Cooper se lanza al agujero negro para completar la misión y enviar datos cuánticos.</p>
+        </div>
+        <div class="card-teseracto">
+            <box-icon name='right-arrow-alt'></box-icon>
+            <div class="content"></div>
+            <h2>El Teseracto</h2>
+            <p>Cooper entra en una dimensión donde puede comunicarse con su hija Murph a través de la gravedad.</p>
+        </div>
+        <div class="card-estacion">
+            <box-icon name='right-arrow-alt'></box-icon>
+            <div class="content"></div>
+            <h2>Estación Cooper</h2>
+            <p>Cooper despierta en una estación espacial creada gracias a los datos que envió.</p>
+        </div>
+
+    </div>
+
+
+    </div>
+
+    <section>
+        <img
+            src="https://preview.redd.it/tza8s2zfg4xd1.jpeg?width=640&crop=smart&auto=webp&s=e2532de874f1dc1adc4c3a176a113371a829b7d3">
+        <img src="https://cdn.cinencuentro.com/wp-content/uploads/2014/11/Interstellar-Cooper-Murph.jpg">
+        <img src="https://hips.hearstapps.com/hmg-prod/images/interstellar-1563274942.jpg?resize=980:*">
+        <img src="https://api.time.com/wp-content/uploads/2014/10/interstellar.jpg">
+        <img
+            src="https://www.indyturk.com/sites/default/files/styles/1368x911/public/filefield_paths/Interstellar.jpg?itok=zbeUuzQX">
+    </section>
+
+
+
+</body>
+
+</html>
