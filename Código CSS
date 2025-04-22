@@ -1,0 +1,239 @@
+body, html{
+    margin: 0px;
+    padding: 0px;
+    height: 100%;
+    background-color: #30333A;
+    font-family: Poppins, sans-serif;
+    font-size: small;
+    
+}
+
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+
+.card-inicio{
+    margin: 10px;
+    position: relative;
+    width: 300px;
+    height: 180px;
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 0 0 20px rgba(0,0,0,0.5);
+    color: rgb(255, 240, 220);
+    text-align: center;
+}
+
+.card-inicio p{
+    color:rgb(187, 189, 191);
+    padding-left: 0.1rem;
+}
+
+.card-inicio box-icon{
+    background-color: rgb(246, 255, 255);
+    border-radius: 5px;
+}
+
+.card-inicio:hover {
+    border: 2px solid #8b8b8b;
+    box-shadow: 0 0 10px #b0c2c266, 0 0 20px #00000033;
+}
+
+
+.card-agujero{
+    margin: 10px;
+    position: relative;
+    width: 300px;
+    height: 180px;
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 0 0 20px rgba(0,0,0,0.5);
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.card-agujero p{
+    color: rgb(187, 189, 191);
+    padding-left: 0.5rem;
+}
+
+.card-agujero box-icon{
+    background-color: rgb(246, 255, 255);
+    border-radius: 5px;
+}
+
+.card-agujero:hover {
+    border: 2px solid #8b8b8b;
+    box-shadow: 0 0 10px #b0c2c266, 0 0 20px #00000033;
+}
+
+.card-miller{
+    margin: 10px;
+    position: relative;
+    width: 300px;
+    height: 180px;
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 0 0 20px rgba(0,0,0,0.5);
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+.card-miller p{
+    color: rgb(187, 189, 191);
+}
+
+.card-miller box-icon{
+    background-color: rgb(246, 255, 255);
+    border-radius: 5px;
+}
+
+.card-miller:hover {
+    border: 2px solid #8b8b8b;
+    box-shadow: 0 0 10px #b0c2c266, 0 0 20px #00000033;
+}
+
+.card-mann{
+    margin: 10px;
+    position: relative;
+    width: 300px;
+    height: 180px;
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 0 0 20px rgba(0,0,0,0.5);
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+.card-mann p{
+    color: rgb(187, 189, 191);
+    padding-left: 0.1rem;
+}
+
+.card-mann box-icon{
+    background-color: rgb(246, 255, 255);
+    border-radius: 5px;
+}
+
+.card-mann:hover {
+    border: 2px solid #8b8b8b;
+    box-shadow: 0 0 10px #b0c2c266, 0 0 20px #00000033;
+}
+
+
+.card-gargantua{
+    margin: 10px;
+    position: relative;
+    width: 300px;
+    height: 180px;
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 0 0 20px rgba(0,0,0,0.5);
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+.card-gargantua p{
+    color: rgb(187, 189, 191);
+    padding-left: 1.5rem;
+}
+
+.card-gargantua box-icon{
+    background-color: rgb(246, 255, 255);
+    border-radius: 5px;
+}
+
+.card-gargantua:hover {
+    border: 2px solid #8b8b8b;
+    box-shadow: 0 0 10px #b0c2c266, 0 0 20px #00000033;
+}
+
+
+.card-teseracto{
+    margin: 10px;
+    position: relative;
+    width: 300px;
+    height: 180px;
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 0 0 20px rgba(0,0,0,0.5);
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+.card-teseracto p{
+    color: rgb(187, 189, 191);
+    padding-left: 0.5rem;
+}
+
+.card-teseracto:hover {
+    border: 2px solid #8b8b8b;
+    box-shadow: 0 0 10px #b0c2c266, 0 0 20px #00000033;
+}
+
+
+.card-teseracto box-icon{
+    background-color: rgb(246, 255, 255);
+    border-radius: 5px;
+}
+
+
+.card-estacion{
+    margin: 10px;
+    position: relative;
+    width: 300px;
+    height: 180px;
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 0 0 20px rgba(0,0,0,0.5);
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+.card-estacion p{
+    color: rgb(187, 189, 191);
+    padding-left: 1.5rem;
+}
+
+.card-estacion box-icon{
+    background-color: rgb(246, 255, 255);
+    border-radius: 5px;
+}
+
+.card-estacion:hover {
+    border: 2px solid #8b8b8b;
+    box-shadow: 0 0 10px #b0c2c266, 0 0 20px #00000033;
+}
+
+
+
+.card-container {
+    display: flex;
+    gap: 2rem; /* separación entre tarjetas */
+    justify-content: center; /* opcional, para centrar todo */
+    flex-wrap: wrap; /* si no caben, que bajen */
+  }
+
+section{
+    display: flex;
+    height: 380px;
+    justify-content: center;
+    margin-top: 50px;
+    margin: 40px;
+    
+}
+
+section img{
+    width: 0px;
+    flex-grow: 1;
+    object-fit: cover;
+    opacity: 0.9;
+    transition: 0.5s ease;
+    border-radius: 10px;
+    justify-items: center;
+}
+
+section img:hover{
+    cursor: crosshair;
+    width: 300px;
+    opacity: 1;
+    filter: contrast(120%);
+}
